@@ -1,0 +1,2 @@
+[ ] Create client frame that asks for what serve they want to connect to
+[ ] Create server with makefile that can be run from terminal
